@@ -6,3 +6,8 @@ Functions
 .. toctree::
    :maxdepth: 2
 
+   searches
+   search_images
+   click_next
+   search_results
+   search_image_results
