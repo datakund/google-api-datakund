@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: google.search_image_results()
 
    
-   :return: [{'Title': 'Title', 'Column A': 'Column A', 'Link': 'Link', 'ImageLink': 'ImageLink'}]
+   :return: [{'Link': 'Link', 'ImageLink': 'ImageLink', 'Title': 'Title'}]
    :rtype: list

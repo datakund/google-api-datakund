@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: google.search_results()
 
    
-   :return: [{'Title': 'Title', 'Column A': 'Column A', 'Desc': 'Desc'}]
+   :return: [{'Desc': 'Desc', 'Link': 'Link', 'Title': 'Title'}]
    :rtype: list
