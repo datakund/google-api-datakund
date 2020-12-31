@@ -1,7 +1,13 @@
 **************************************************
 Search Images
 **************************************************
-It searches the keyword passed in ``keyword`` on google in images.
+It searches the keyword passed in keyword on google in images.
+
+**body**: returns data
+
+**success_score**: api success rate
+
+**errors**: errors encountered in api 
 
 Here is the code:-
 
@@ -9,5 +15,5 @@ Here is the code:-
 
    
    :param str keyword: Keyword which need to be search on google
-   :return: {}
+   :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict
