@@ -14,7 +14,6 @@ Creating Object
 **************************************************
 .. code-block:: python
 	
-	obj=datakund()
-	google=obj.google()
+	google=datakund.google()
 	
 It will return the object which you can further use to call google functions and opens a automated browser
