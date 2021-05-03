@@ -1,7 +1,7 @@
 Functions
 **************************************************
 
-``datakund`` provides following functions for google:-
+``bot-studio`` provides following functions for google:-
 
 .. toctree::
    :maxdepth: 2
